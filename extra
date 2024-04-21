@@ -26,3 +26,14 @@ Javascript > Logics
 html > wrapper tag
 head > connection (css,js)
 body > All the content that is visible to us
+
+
+block level
+> that will take the whole width of screen
+> always start from new line
+> p div header footer
+
+inline 
+> only take a width according to the content
+> start in same line
+> img a span
