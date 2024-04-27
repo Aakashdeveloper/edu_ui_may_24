@@ -37,3 +37,48 @@ inline
 > only take a width according to the content
 > start in same line
 > img a span
+
+
+div> divison
+
+
+Profile
+Name
+Profile Image
+Something about u
+Skills
+Hobbies
+Education
+Map
+Social Link
+
+inline > styletag > stylesheet
+
+inline
+{
+    color:red;
+    font-size:30px;
+    width:50%
+}
+
+styletag
+{
+    color:orange;
+    background:green;
+    height:60px
+}
+
+stylesheet{
+     font-size:40px;
+      background:gray;
+      border:1px solid red
+}
+
+{
+   color:red;
+   font-size:30px;
+   width:50%;
+   background:green;
+   height:60px;
+   border:1px solid red
+}
