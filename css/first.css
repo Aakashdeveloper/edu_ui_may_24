@@ -1,0 +1,51 @@
+header{
+    text-align: center;
+}
+.card{
+    height:400px;
+    background-color:#89CEF6;
+    width:20%;
+    float:left;
+    margin:2%;
+    overflow: scroll;
+}
+#myTag{
+    color:green
+}
+#brown{
+    background-color:#b56f5d
+}
+.myblue{
+    background-color:#40728a
+}
+.mybrown{
+    background-color:#b9a7a1
+}
+.card > img {
+    width:100%;height:200px
+}
+
+#main{
+    display:inline-block
+}
+
+.hcard{
+    height:300px;
+    width:80%;
+    background-color: lightcoral;
+    margin-left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left{
+    width:25%
+}
+.left img{
+    height:100%;
+    width:100%
+}
+.right{
+    width:65%;
+    margin:5%
+}

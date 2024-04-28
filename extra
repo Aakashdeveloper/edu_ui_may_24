@@ -82,3 +82,21 @@ stylesheet{
    height:60px;
    border:1px solid red
 }
+
+
+/////////////////
+TagName
+> You can target by tagname
+
+Id
+> When you want to target something unique
+> Should only be once per page
+> one tag can have only one id
+> #
+
+Class
+> When you want to target group of element with same property
+> can you multiple time
+> one tag can have more then one class
+> .
+
