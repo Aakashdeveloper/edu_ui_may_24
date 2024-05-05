@@ -1,0 +1,17 @@
+.btn-purple{
+    background-color: purple;
+}
+
+.edit{
+    font-size:30px;
+    color:green
+}
+.delete{
+    font-size:30px;
+    color:red
+}
+
+.sliderimage{
+    width:100%;
+    height:350px !important
+}
