@@ -106,5 +106,57 @@ position:relative
 
 
 https://forms.gle/2uZDoKURwN4T6eoq6
+
 https://github.com/Aakashdeveloper/myprofileweb
+
 https://aakashdeveloper.github.io/myprofileweb/
+
+
+let arr = [
+    {user:"Sateesh", count:10},
+    {user:"Ranjith", count:20}
+]
+
+//Grid Basic
+#Bootstrap3
+xs < 768px
+sm > 768px
+md > 992px
+lg > 1200px
+
+
+#Bootstrap4
+col- < 576px
+sm > 576px
+md > 768px
+lg > 992px
+xl > 1200px
+
+
+#Bootstrap5
+col- < 576px
+sm > 576px
+md > 768px
+lg > 992px
+xl > 1200px
+xxl > 1400px
+
+
+https://getbootstrap.com/docs/5.2/components/offcanvas/
+
+<div class="position-absolute opacity-75 float-start">...</div>
+<div class="position-absolute opacity-75">...</div>
+<div class="position-absolute opacity-75">...</div>
+<div class="position-absolute opacity-75">...</div>
+
+.myclass{
+    position:absolute;
+    opacity:.7;
+    float:left
+}
+
+
+<div class="myclass">...</div>
+<div class="myclass">...</div>
+<div class="myclass">...</div>
+<div class="myclass">...</div>

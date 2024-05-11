@@ -1,4 +1,4 @@
-.btn-purple{
+.purple{
     background-color: purple;
 }
 
@@ -14,4 +14,45 @@
 .sliderimage{
     width:100%;
     height:350px !important
+}
+
+#first{
+    height:200px;
+    background-color: orange;
+}
+
+#second{
+    height:200px;
+    background-color: rgb(165, 221, 112);
+}
+
+#third{
+    height:200px;
+    background-color: rgb(122, 185, 161);
+}
+
+#fourth{
+    height:200px;
+    background-color: rgb(165, 168, 209);
+}
+
+#fifth{
+    height:200px;
+    background-color: rgb(143, 104, 153);
+}
+
+#sixth{
+    height:200px;
+    background-color: rgb(110, 157, 127);
+}
+
+#seventh{
+    height:200px;
+    background-color: rgb(239, 155, 155);
+}
+
+#eight{
+    height:200px;
+    background-color: red;
+    opacity: 0.5;
 }
