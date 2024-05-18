@@ -164,14 +164,12 @@ eval
 
 
 
-array
-coupon
+
+rest spread
 clouser
 hoisting
-loop
-object
 geolocation
 (api calling)
+(promise async/await)
 form(validation)
-mapfilter
-rest spread
+
